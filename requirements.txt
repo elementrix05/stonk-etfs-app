@@ -1,6 +1,6 @@
-streamlit = "^1.27.2"
-requests = "^2.32.3"
-yfinance = "^0.2.40"
-pandas = "^2.2.2"
-streamlit-lightweight-charts = "^0.7.20"
-plotly = "^5.22.0"
+streamlit
+requests
+yfinance
+pandas
+streamlit-lightweight-charts
+plotly
